@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 I am new text for Alice
 This is another change for Alice
+=======
+Making this change as a test
+>>>>>>> 82145876cc4b23474e947e4e4f57c614e840dbbd
